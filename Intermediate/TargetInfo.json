@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SGSG",
+			"Path": "..\\Source\\SGSG.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SGSGEditor",
+			"Path": "..\\Source\\SGSGEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

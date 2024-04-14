@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/GameMap_TEST.umap",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Blueprints/Character/PC_Map.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Blueprints/Character/P_Map.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Blueprints/Character/GM_Map.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Materials/Textures/Space.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Materials/materials/M_Space.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Blueprints/Management/MapManager.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Blueprints/Map/System.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Blueprints/Map/JumpLane.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Blueprints/Map/JumpLaneChecker.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Levels/GameMap_TEST.umap",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Data/Tables/StarInfo.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/UI/MenuUi.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Data/Tables/Star.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Blueprints/Management/MapMaker.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Blueprints/Map/Starlane.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Blueprints/Character/movement/Movement.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Blueprints/Character/PC_Basic.uasset",
+				"D:/mackn/Documents/Unreal Projects/SGSG/Content/SGSG/Blueprints/Character/Player.uasset"
+			]
+		}
+	]
+}
